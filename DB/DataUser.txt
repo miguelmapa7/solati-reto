@@ -1,0 +1,4 @@
+{
+    UrlDB: "mongodb+srv://<username>:<password>@cluster0.vavd6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    database: "db_solati",
+}

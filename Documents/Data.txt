@@ -1,0 +1,5 @@
+Api: http://apilayer.net/api/live?access_key=1a0a4a55f4922365bfa13dd3aec2feab&currencies=USD,COP&source=USD&format=1
+
+5173b14743-88984f6d1f-r3bh68
+https://api.fastforex.io/convert?from=COP&to=USD&amount=4000&api_key=5173b14743-88984f6d1f-r3bh68'
+https://api.fastforex.io/convert?from=COP&to=USD&amount=10000&api_key=5173b14743-88984f6d1f-r3bh68
